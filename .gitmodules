@@ -1,0 +1,3 @@
+[submodule "ionic-weather"]
+	path = ionic-weather
+	url = git@github.com:kensodemann/ionic-weather.git
