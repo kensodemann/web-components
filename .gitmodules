@@ -4,3 +4,12 @@
 [submodule "kws-weather-widgets"]
 	path = kws-weather-widgets
 	url = git@github.com:kensodemann/kws-weather-widgets.git
+[submodule "angular-tents"]
+	path = angular-tents
+	url = git@github.com:kensodemann/angular-tents.git
+[submodule "campground-reactions"]
+	path = campground-reactions
+	url = git@github.com:kensodemann/campground-reactions.git
+[submodule "vue-our-gear"]
+	path = vue-our-gear
+	url = git@github.com:kensodemann/vue-our-gear.git
