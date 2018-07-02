@@ -41,3 +41,4 @@ https://developers.google.com/web/fundamentals/web-components/
 Polymer - https://www.polymer-project.org
 SkateJS - http://skatejs.netlify.com
 Stencil - https://stenciljs.com
+https://custom-elements-everywhere.com
